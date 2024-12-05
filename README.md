@@ -9,7 +9,7 @@
 
 - 🪻I regularly do artistry [https://www.instagram.com/soulfully_artistic?igsh=MWZ4YjltcHg3cG45dA==](https://www.instagram.com/soulfully_artistic?igsh=MWZ4YjltcHg3cG45dA==)
 
-- 💬 Ask me about **DSA,Competitive Programming, UI/UX,DBMS,Frontend Development**
+- 💬 Ask me about **DSA,Competitive Programming, UI/UX,Database ,Frontend Development**
 
 - 📫 How to reach me **sriananya1203@gmail.com**
 
