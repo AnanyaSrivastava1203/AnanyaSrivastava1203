@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ananya✨</h1>
 <h3 align="center">A passionate frontend developer and competitive programmer</h3>
 
-- 🔭 I've worked on [Music-academy🎶](https://github.com/AnanyaSrivastava1203/Music-academy)
+- 🌱 I’m currently learning **React.js, Next.js, Express.js ,MySQL ,PostgreSQL ,Node.js**
 
-- 🌱 I’m currently learning **React.js, MySQL,PostgreSQL**
-
-- 👯 I’m looking to collaborate on **creative frontend projects**
+- 👯 I’m looking to collaborate on **full stack projects**
 
 - 🪻I regularly do artistry [https://www.instagram.com/soulfully_artistic?igsh=MWZ4YjltcHg3cG45dA==](https://www.instagram.com/soulfully_artistic?igsh=MWZ4YjltcHg3cG45dA==)
 
