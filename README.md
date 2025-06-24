@@ -11,8 +11,6 @@
 
 - 📫 How to reach me **sriananya1203@gmail.com**
 
-- 📄 Know about my experiences [https://1drv.ms/b/s!AgBdph1XyrkUiO4r3ZsIBSGqj68k9g?e=OiP7NX](https://1drv.ms/b/s!AgBdph1XyrkUiO4r3ZsIBSGqj68k9g?e=OiP7NX)
-
 - ⚡ Fun fact **I'm creative,enthusiastic and a good learner**
 
 - <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AnanyaSrivastava1203" alt="AnanyaSrivastava1203" /></a> </p>
